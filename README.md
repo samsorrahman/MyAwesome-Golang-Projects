@@ -19,3 +19,23 @@ This repository contains a basic example of a web server built using Go's `net/h
 ## Getting Started
 
 1. Clone the repository:
+2. Run the command : go run main.go
+
+
+4. Access the server in your web browser at [http://localhost:8080](http://localhost:8080).
+
+## Usage
+
+1. Open your web browser and go to [http://localhost:8080](http://localhost:8080).
+2. Explore the static files served from the `static` directory.
+3. Visit [http://localhost:8080/hello](http://localhost:8080/hello) to see the "Hello World!" message.
+4. Submit the form at [http://localhost:8080/form](http://localhost:8080/form) to see form handling in action.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or want to enhance this project, feel free to open a pull request. Please follow the existing code style and guidelines.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
