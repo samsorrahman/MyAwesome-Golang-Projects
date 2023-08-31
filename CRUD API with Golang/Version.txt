@@ -1,1 +1,6 @@
 Gorilla mux for web server
+
+
+Install goriall on your commnd line.
+Just paste the link in your cmd.
+go get -u github.com/gorilla/mux
